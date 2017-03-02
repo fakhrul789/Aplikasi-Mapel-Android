@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Jadwal</string>
+    <string name="senin_string">Senin</string>
+    <string name="selasa_string">Selasa</string>
+    <string name="rabu_string">Rabu</string>
+    <string name="kamis_string">Kamis</string>
+    <string name="jumat_string">Jumat</string>
+    <string name="open_drawer">open drawer</string>
+    <string name="close_drawer">close drawer</string>
+</resources>

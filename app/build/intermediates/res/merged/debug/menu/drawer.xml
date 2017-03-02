@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/senin"
+            android:checked="false"
+            android:icon="@drawable/ic_schedule_black_24dp"
+            android:title="@string/senin_string" />
+        <item
+            android:id="@+id/selasa"
+            android:checked="false"
+            android:icon="@drawable/ic_schedule_black_24dp"
+            android:title="@string/selasa_string" />
+        <item
+            android:id="@+id/rabu"
+            android:checked="false"
+            android:icon="@drawable/ic_schedule_black_24dp"
+            android:title="@string/rabu_string" />
+        <item
+            android:id="@+id/kamis"
+            android:checked="false"
+            android:icon="@drawable/ic_schedule_black_24dp"
+            android:title="@string/kamis_string" />
+        <item
+            android:id="@+id/jumat"
+            android:checked="false"
+            android:icon="@drawable/ic_schedule_black_24dp"
+            android:title="@string/jumat_string" />
+    </group>
+
+</menu>
